@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+NAME: John Michael Molar
+EDUCATION: Bachelor of Science in Information System (2nd Year student)
+Certifications: SQL and Relational Databases 101
+(DB0101EN, provided by IBM)
+SKILLSETS: Can use excel, word and powerpoint.
+
 <!--
 **Jmmolar/Jmmolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
