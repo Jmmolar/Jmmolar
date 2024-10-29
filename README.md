@@ -2,7 +2,7 @@
 
 NAME: John Michael Molar
 EDUCATION: Bachelor of Science in Information System (2nd Year student)
-Certifications: SQL and Relational Databases 101
+Certifications: [SQL and Relational Databases 101] (https://courses.cognitiveclass.ai/certificates/c305e258b2bf4d40974c5246f15ec0ab)
 (DB0101EN, provided by IBM)
 SKILLSETS: Can use excel, word and powerpoint.
 
