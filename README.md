@@ -10,7 +10,7 @@ Certifications:
 • SQL and Relational Databases 101. (DB0101EN, provided by IBM)(https://courses.cognitiveclass.ai/certificates/c305e258b2bf4d40974c5246f15ec0ab)
 
 SKILLSETS:
-Can use excel, word and powerpoint.
+Can use MSword, Excel, Powerpoint.
 
 <!--
 **Jmmolar/Jmmolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
